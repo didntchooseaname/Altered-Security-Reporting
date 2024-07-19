@@ -31,5 +31,5 @@ In this section, findings and recommendations are automatically populated from t
 
 Thanks to:
 
-- KrbtgC
-- Djobbo Maïga
+- @Th3k33n
+- @Djobbo-Victor
