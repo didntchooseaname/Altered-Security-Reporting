@@ -31,5 +31,6 @@ In this section, findings and recommendations are automatically populated from t
 
 Thanks to:
 
+- Altered Security for reviewing this report template.
 - @Th3k33n
 - @Djobbo-Victor
