@@ -13,7 +13,7 @@ Each text are customizable Under the **Other** section.
 
 ### Table Of Contents:
 
-The provided screenshots are provided as placeholders, and not represent real assessment on any exam, the template is blank and yu need to fill all the parts in the report and findings fileds yourself.
+The screenshots are provided as placeholders, and not represent real assessment on any exam, the template is blank and yu need to fill all the parts in the report and findings fileds yourself.
 
 ![toc](/Demo-assets/toc.png)
 
