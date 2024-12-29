@@ -4,6 +4,12 @@ Assets are property of Altered Security and Thomas Wiese.
 
 [Download](https://github.com/didntchooseaname/Altered-Security-Reporting/releases)
 
+### How to Use/Import:
+
+![](/Demo-assets/import.png)
+
+---
+
 ### Cover Page:
 
 ![Cover Page](/Demo-assets/cover.png)
