@@ -1,5 +1,5 @@
 # Altered-Security-Reporting
-A generic sysreptor template to write Altered Security's certifications reports of compromission.
+A generic sysreptor template to write on-premise related Altered Security's certifications reports of compromission.
 Assets are property of Altered Security and Thomas Wiese.
 
 [Download](https://github.com/didntchooseaname/Altered-Security-Reporting/releases)
