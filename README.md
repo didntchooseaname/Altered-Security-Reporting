@@ -22,7 +22,7 @@ The TOC is dynamically updated with the diferent parts. The Findings (in this ca
 
 ---
 
-### Executive Summary
+### Automated Executive Summary
 
 In this section, findings and recommendations are automatically populated from the findings sections with the affected components (mostly machines).
 
